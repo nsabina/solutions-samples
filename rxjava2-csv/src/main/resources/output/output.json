@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "color": "Sam T.",
+      "firstname": "Sam T.",
+      "lastname": "Sam T.",
+      "phonenumber": "353 791 6380",
+      "zipcode": "85360"
+    },
+    {
+      "color": "Jamie",
+      "firstname": "Stevenson",
+      "lastname": "Jamie Stevenson",
+      "phonenumber": "028 164 6574",
+      "zipcode": "84880"
+    }
+  ],
+  "errors": [
+    1,
+    3
+  ]
+}
