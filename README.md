@@ -1,1 +1,3 @@
-"# solutions-samples" 
+#solutions-samples
+
+some Java solutions
